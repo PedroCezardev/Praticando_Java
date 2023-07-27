@@ -1,6 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 //Programa de análise de números ímpar ou par.
 
 package com.mycompany.mavenproject1;
