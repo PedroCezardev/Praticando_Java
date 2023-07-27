@@ -2,10 +2,6 @@
 
 package programa.leitura.comparacao;
 
-/**
- *
- * @author eoped
- */
 import java.util.Scanner;
 
 public class valores {
