@@ -2,10 +2,7 @@
 
 package com.mycompany.mavenproject1;
 
-/**
- *
- * @author eoped
- */
+
 import java.util.Scanner;
         
 public class Mavenproject1 {
